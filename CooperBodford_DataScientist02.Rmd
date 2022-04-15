@@ -1,0 +1,49 @@
+---
+title: "Becoming a Data Scientist"
+subtitle: "STT2860 S22 Project 02"
+author: "Author: Cooper Bodford"
+date: "`r format(Sys.time(), '%A, %B %d, %Y @ %I:%M %p')`"
+output: 
+  html_document: 
+    theme: yeti
+    highlight: textmate
+---
+***
+
+**Q1: What is the name of the person interviewed?**
+
+ANSWER: Randy Olsen
+
+**Q2: Why did you choose the particular interview you did?**
+
+ANSWER: I chose this interview because I wanted to hear about his path to becoming a data scientist and about his work with non data science students. 
+
+**Q3: Does the person consider themselves a data scientist?**
+
+ANSWER: Yes, he does consider himself a data scientist.
+
+**Q4: What is their formal and self-taught education in data science?**
+
+ANSWER: He originally took AP computer science in high school. He then went on to major in computer science in college. He then went to grad school at Michigan State University
+
+**Q5: What has been their career path? Did they start off in data science?**
+
+ANSWER: He started off as a programmer but found out that it wasn't for him so he went back to grad school for atrificial intelligence research. 
+
+**Q6: What programs/technologies to they use when working in data science?**
+
+ANSWER: He wrote all of his code from scratch but he used C++ for his simulations and he also used python.
+
+**Q7: What is one interesting (to you) data science problem they have worked on?**
+
+ANSWER: One interesting data science problem he work on was comparing minimum wage to college tuition and seeing how long it would take you to pay off your college tuition working a minimum wage job.
+
+**Q8: Are there any specific pieces of advice they gave that inspire/resonate with you?**
+
+ANSWER: To work on test projects and share them online to get useful feedback to help imrove your skills and learn more. 
+
+**Q9: Was there anything that surprised you or that you particularly identified with?**
+
+ANSWER: I was surprised with how many side projects he works on in his free time such as the minimum wage vs college tuition and the Madden NFL video game.
+
+***

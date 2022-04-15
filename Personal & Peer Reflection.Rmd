@@ -1,0 +1,23 @@
+---
+title: "Personal and Peer Assessment"
+subtitle: "STT2860 S22 Project 02"
+author: "Authors: Cooper Bodford"
+date: "`r format(Sys.time(), '%A, %B %d, %Y @ %I:%M %p')`"
+output: 
+  html_document: 
+    theme: yeti
+    highlight: textmate
+---
+***
+
+This is a free-form reflection about the process of completing and submitting Project 2. I want to see your honest self-assessment of your own performance in the context of completing the project, as well as your assessment of your partners. For example, did you: (1) do the work you committed to do in a timely manner; (1) communicate well and quickly; (3) attend class work periods and any other scheduled meetings; (4) consult as needed with your partners and/or Dr. Thomley? Refer back to your original work plan and update to provide context for your assessments. Tell me the good and the bad.
+
+DO NOT INCLUDE A COPY OF THIS SELF AND PEER ASSESSMENT IN YOUR PROJECT UPLOAD, otherwise it will not be confidential.
+
+**Self-Assessment**
+I feel that I contributed well to my part of the assignment. I mostly worked on the Galton dataset and also helped some with the streaming data set with some of the graphs. I communicated well andquickly with the other members of the group. I attended the class work periods and also was present when we met outside of class time. 
+
+**Peer-Assessment**
+I think our group worked very well together and all contributed in our own way to the success of the project. We communicated very well and quickly as a group and everyone was always kept up to date and in the loop of what our plan was. We all atteneded class work periods and met outside of class as well.
+
+***
