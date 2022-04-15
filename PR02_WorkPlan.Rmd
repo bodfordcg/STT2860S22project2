@@ -1,0 +1,32 @@
+---
+title: "Group Work Plan"
+subtitle: "STT2860 S22 Project 02"
+author: "Authors: Cooper Bodford, Alex Dodds, Zachary Dove, Lauren Rusnak"
+date: "`r format(Sys.time(), '%A, %B %d, %Y @ %I:%M %p')`"
+output: 
+  html_document: 
+    theme: yeti
+    highlight: textmate
+---
+***
+
+**Work Plan/Assignments**
+
+* Lauren typed up the work plan
+* We all do "Becoming a Data Scientist" 
+* We will work on each project (B, C) together for maximum collaboration.
+
+**Completion Timeline**
+
+* We will all do the "Becoming a data scientist" assignment individually whenever works for us and expect that we will submit it before the deadline.
+
+* We will work on the Galton data assignment together in class 3/29 and 3/31. 
+
+* Lastly, we will work on the streaming data assignment in class 3/31 if there is time and also on 4/5. If we do not complete the project in class we will plan to meet sometime before the project is due.
+
+
+**Communication Plan**
+
+* We will be communicating via text group chat or email.
+
+***

@@ -1,0 +1,32 @@
+---
+title: "Group Project Update"
+subtitle: "STT2860 S22 Project 02"
+author: "Authors: Cooper Bodford, Alex Dodds, Zachary Doves, Lauren Rusnak"
+date: "`r format(Sys.time(), '%A, %B %d, %Y @ %I:%M %p')`"
+output: 
+  html_document: 
+    theme: yeti
+    highlight: textmate
+---
+***
+
+**Work Plan/Assignments Update**
+
+Refer back to your original work plan. Has anything changed? Who has completed what portions of the project? Explain.
+
+We have all been working on the streaming dataset together. Together, everyone brainstormed on how to solve each coding problem to come to a solution. We will continue to work on the Galton dataset together.
+
+**Completion Timeline Update**
+
+Refer back to your original timeline. Has anything changed? What pieces of the project are done and what are still left to do? Explain.
+
+Our timeline has changed. We worked on the streaming dataset last week. We are finalizing it today. This week, we will work on the Galton dataset. We will plan on meeting later if more time is required to finish the project.
+
+**Communication Update**
+
+Refer back to your communication plan. Has anything changed? Has everyone communicated in an effective and timely manner? Explain.
+
+Our communication plan has been working well. Everyone has been using the text group chat to communicate effectively. So, no changes will be made to the existing communication plan.
+
+
+***
